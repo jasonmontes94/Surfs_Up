@@ -20,7 +20,7 @@ By comparing the two tables, we are able to come up with three key differences:
 
 - The temperatures in June were generally higher than that of December, but not by much.
 
--June's standard deviation was less than that of December's, meaning the temperature fluctuated less in June than in December.
+- June's standard deviation was less than that of December's, meaning the temperature fluctuated less in June than in December.
 
 ## Summary
 
